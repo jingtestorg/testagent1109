@@ -1,4 +1,4 @@
-# Simple Greeting Agentffffffff
+# Simple Greeting Agentfffffffffff
 
 Simple AI agent that greets users — proof of concept with no MCP integrations.
 
